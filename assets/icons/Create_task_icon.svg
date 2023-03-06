@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34">
+  <g id="Group_1" data-name="Group 1" transform="translate(-666 -520)">
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="17" cy="17" r="17" transform="translate(666 520)" fill="rgba(227,6,19,0.9)"/>
+    <path id="Path_1" data-name="Path 1" d="M17,7c1.5,0,2.7,0,3.677.074A2.493,2.493,0,0,0,20.5,8v.5H20a2.5,2.5,0,0,0,0,5h.5V14A2.5,2.5,0,0,0,25,15.5V19c0,3.771,0,5.657-1.172,6.828S20.771,27,17,27s-5.657,0-6.828-1.172S9,22.771,9,19V15c0-3.771,0-5.657,1.172-6.828S13.229,7,17,7Zm-4,9a1,1,0,0,0,0,2h4a1,1,0,0,0,0-2Zm0,3a1,1,0,0,0,0,2h6a1,1,0,0,0,0-2Zm0,3a1,1,0,0,0,0,2h4a1,1,0,0,0,0-2Z" transform="translate(666 520)" fill="rgba(255,255,255,0.93)" fill-rule="evenodd"/>
+    <path id="Path_2" data-name="Path 2" d="M23,8v6" transform="translate(666 520)" fill="none" stroke="rgba(255,255,255,0.93)" stroke-linecap="round" stroke-width="2"/>
+    <path id="Path_3" data-name="Path 3" d="M26,11H20" transform="translate(666 520)" fill="none" stroke="rgba(255,255,255,0.93)" stroke-linecap="round" stroke-width="2"/>
+  </g>
+</svg>

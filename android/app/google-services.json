@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "96421652599",
+    "project_id": "royal-2022",
+    "storage_bucket": "royal-2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96421652599:android:a46f139e504ebf4e1dbe72",
+        "android_client_info": {
+          "package_name": "com.example.royal_marketing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96421652599-pp33b6j2m7iqo153guvbldk6bsjqmmek.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.royal_marketing",
+            "certificate_hash": "4a2130b6a083caf03fdf7ca4c265bb88d665d5f4"
+          }
+        },
+        {
+          "client_id": "96421652599-hrhd52nhrp9p9l5rsjri8i4057ointlh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCptMXTx1biTB3-0WxTmlJQHf1u-3DOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96421652599-hrhd52nhrp9p9l5rsjri8i4057ointlh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "96421652599-ul23msrsd35m7126ip910v1o3fapkkjf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.royalMarketing"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
